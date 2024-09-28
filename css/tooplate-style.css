@@ -111,9 +111,8 @@ b, strong {
   display: inline-block;
   vertical-align: top;
   margin-top: 5px;
-  min-width: 360px;
+  min-width: 260px;
   position: relative;
-  
 }
 
 .animated-item {
@@ -369,10 +368,6 @@ b, strong {
 
 .owl-carousel .owl-nav span {
   display: none;
-}
-.project-info{
-  height: 1400px;
-  width: 1010px;
 }
 .owl-carousel .owl-nav .owl-prev:before,
 .owl-carousel .owl-nav .owl-next:before {
